@@ -2,7 +2,11 @@
 <%@ page import="bean.Student" %>
 <%--
   Created by IntelliJ IDEA.
+<<<<<<< HEAD
   User: 何宇航 在郫都
+=======
+  User: 何宇航
+>>>>>>> origin/main
   Date: 2022/6/22
   Time: 19:53
   To change this template use File | Settings | File Templates.
